@@ -98,7 +98,8 @@ cat /etc/hostname
 ![image](https://github.com/user-attachments/assets/6da13f89-63f1-4125-a89d-d8b61a24f4cd)
 
 
-![Exp 1 ](Op2-cc1.png)
+![image](https://github.com/user-attachments/assets/ac952f13-77d9-4831-ae66-b1b8b236fa53)
+
 
 ## RESULT
 
